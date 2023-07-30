@@ -1,0 +1,51 @@
+ const EmployeeData = [
+    {
+id:'1',
+firstName: "Andy",
+lastName:"Ruvin",
+email:"AndyRubin@gamil.com",
+salary:"500000",
+date:'2010-04-17',
+},
+{
+id:'2',
+firstName: "rovin",
+lastName:"hub",
+email:"rovinhud@gamil.com",
+salary:"200000",
+date:'2010-06-17',
+},
+{
+    id:'3',
+firstName: "loe",
+lastName:"due",
+email:"loedue@gamil.com",
+salary:"800000",
+date:'2022-04-30',
+},
+{
+    id:'4',
+firstName: "james",
+lastName:"Ruvin",
+email:"jamesrubin@gamil.com",
+salary:"900000",
+date:'2021-04-17',
+},
+{
+id:'5',
+firstName: "michel",
+lastName:"senterner",
+email:"michel@gamil.com",
+salary:"700000",
+date:'2015-04-17',
+},
+{
+    id:'6',
+    firstName: "Henery",
+    lastName:"rowin",
+    email:"haneeryrowin@gamil.com",
+    salary:"700000",
+    date:'2015-04-17',
+    },
+]
+export default EmployeeData;
